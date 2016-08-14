@@ -1,0 +1,12 @@
+li {
+	display: inline-block;
+	margin: 0 5px 0 5px;
+}
+
+.right {
+	float: right;
+}
+
+#main {
+	clear: both;
+}
